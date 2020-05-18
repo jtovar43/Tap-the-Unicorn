@@ -87,9 +87,5 @@ class ViewController: UIViewController {
         startGame()
     }
     
-    @IBAction func closeInstructions(_ sender: Any) {
-        dismiss(animated: true, completion: nil)
-    }
-    
     
 }
